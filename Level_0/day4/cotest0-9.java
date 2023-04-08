@@ -1,4 +1,4 @@
-package Level_0;
+package Level_0.day4;
 
 class germ_growth {
     public int solution(int n, int t) {

@@ -1,4 +1,4 @@
-package Level_0;
+package Level_0.day3;
 
 import java.util.Arrays;
 // Arrays.toString(int배열) : 문자열 배열로 변환

@@ -1,4 +1,4 @@
-package Level_0;
+package Level_0.day3;
 
 import java.util.*;
 

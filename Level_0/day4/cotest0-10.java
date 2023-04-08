@@ -1,4 +1,4 @@
-package Level_0;
+package Level_0.day4;
 
 class cotest {
     public int solution(int n) {
