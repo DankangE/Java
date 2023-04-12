@@ -2,6 +2,7 @@ package Level_0.day6;
 
 import java.util.Arrays;
 
+// n의 배수 고르기
 public class cotest0_14 {
     public static int[] solution(int n, int[] numlist) {
         int cnt = 0;

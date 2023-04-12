@@ -2,6 +2,8 @@ package Level_0.day5;
 
 import java.util.stream.Stream;
 
+
+//자릿수 더하기
 public class cotest0_13 {
 
     public static int solution(int n) {
